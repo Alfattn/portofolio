@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: #e8f9fd;
+  padding-top: 6rem;
+}
+#about {
+  font-style: oblique;
+}
+#project {
+  background-color: #e8f9fd;
+  font-style: italic;
+}
+section {
+  padding-top: 5rem;
+}
